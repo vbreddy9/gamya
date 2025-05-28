@@ -62,7 +62,7 @@ const ConnectivitySection = () => {
             className="w-full h-auto object-cover rounded-lg"
           />
           <button className="absolute top-4 right-4 bg-maroon-700 text-white px-4 py-2 rounded-lg hover:bg-maroon-800 transition">
-            Navigate to CINQ
+            Navigate to GAMYA
           </button>
         </div>
       </div>
